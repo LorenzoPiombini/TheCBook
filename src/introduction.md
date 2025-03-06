@@ -1,5 +1,7 @@
 # Introduction
 
+<img src="img/c_logo"/>
+
 Welcome to a modern, approachable guide to the C programming language! Inspired by *The Rust Programming Language*, which I admire for its clarity and contemporary style, this guide aims to bring a fresh perspective to learning C.  
 
 Over the years, I’ve collected countless books on C—each valuable in their own way. However, I believe the C community could benefit from a more accessible and engaging resource. That's why I set out to create a **free, online guide** for anyone eager to explore C, whether you're a complete beginner or looking to sharpen your skills.  
